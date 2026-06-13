@@ -148,14 +148,14 @@ og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Person
+  name                   : "Kadam Nitisha Narayan
   links: # An array of links to social media profiles
 
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
@@ -233,6 +233,8 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+
+    
 
 
 # These settings control how pages and collections are included in the site
