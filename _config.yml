@@ -23,7 +23,7 @@ repository               : "Nitishak06/Nitishak06.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "KNitisha_Photo.png"
   name             : "Kadam Nitisha Narayan"
   pronouns         : # example: "she/her"  
   bio              : "MCA student at S-Vyasa University with an academic focus on AI/ML. An enthusiastic open-source beginner currently learning NLP foundations and LangChain"
